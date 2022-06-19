@@ -1,0 +1,22 @@
+ /* Imports */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Oswald&family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+body{
+    background-color: aliceblue;
+}
+
+.container
+{
+    height: 50vh;
+    width: 60vh;
+    border: 1px solid #000;
+    border-radius: 9px;
+    margin:25vh auto;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 3rem;
+    display:block;
+    margin: 20vh auto;
+    text-align: center;
+}
