@@ -12,18 +12,22 @@ body{
     border-radius: 9px;
     margin:25vh auto;
 }
-
+img{
+    height: 20vh;
+    width: auto;
+    margin: 10vh auto 0 auto;
+    display: block;
+}
 h1{
     font-family: 'Oswald', sans-serif;
     font-size: 3rem;
     display:block;
-    margin: 20vh auto 0 auto;
+    margin: 5vh auto 2vh auto;
     text-align: center;
 }
-h3{
+h2{
     font-family: 'Oswald', sans-serif;
-    font-size: 1rem;
+    font-size: 1.1rem;
     display:block;
-    margin: 5vh auto 0 auto;
     text-align: center;
 }
